@@ -20,3 +20,5 @@
 [算法题攻略](https://labuladong.gitbook.io/algo/)
 
 [python实现动态规划 递推 备忘录递推](https://www.jianshu.com/p/3cd66089f3db)
+
+[python count类](https://www.cnblogs.com/shixisheng/p/7410505.html)
